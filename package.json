@@ -1,0 +1,21 @@
+{
+  "name": "sendupdatemail",
+  "version": "0.0.0",
+  "description": "simple project for sending update mails using crons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mohit2494/sendupdatemail.git"
+  },
+  "author": "Mohit Kalra",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/mohit2494/sendupdatemail/issues"
+  },
+  "dependencies": {
+    "nodemailer": "~5.1.1"
+  }
+}
