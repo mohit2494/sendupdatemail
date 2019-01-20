@@ -1,2 +1,7 @@
-#project for sending automated mail to your manager about your
-#completed and pending tasks
+SENDUPDATEMAIL
+==============
+Author
+Mohit Kalra
+==============
+
+A simple project build on node.js as backend to send update mails to your manager.
